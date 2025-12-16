@@ -45,3 +45,13 @@ Buttons are disabled after you click them so questions can’t be repeated.
    javac Jeopardy.java
    java Jeopardy
 ```
+
+## License
+MIT License (see LICENSE).
+
+## Contributing
+This was a culminating assignment. Suggestions and improvements are welcome via issues (and PRs if you’d like to propose a change).
+
+## Contact
+Lisa Nguyen — https://www.linkedin.com/in/<www.linkedin.com/in/lisa-vo-nguyen/
+
