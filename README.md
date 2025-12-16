@@ -58,4 +58,5 @@ This was a culminating assignment. Suggestions and improvements are welcome via 
 ## Contact
 
 * **Email:** [lisanguyen.tech@yahoo.com](mailto:lisanguyen.tech@yahoo.com)
-* **LinkedIn:** [https://www.linkedin.com/in/lisa-nguyen-48825a160/](https://www.linkedin.com/in/lisa-vo-nguyen/)
+* **LinkedIn:** [https://www.linkedin.com/in/lisa-vo-nguyen/](https://www.linkedin.com/in/lisa-vo-nguyen/)
+
