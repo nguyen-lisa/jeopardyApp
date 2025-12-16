@@ -46,7 +46,9 @@ Buttons are disabled after you click them so questions can’t be repeated.
    java Jeopardy
 ```
 
-[Jeopardy demo video](./jeopardyDemo.mp4)
+## Demo
+
+[![Jeopardy demo](./jeopardyDemo.gif)](./jeopardyDemo.mp4)
 
 ---
 ## Contributing
@@ -61,4 +63,5 @@ This was a culminating assignment. Suggestions and improvements are welcome via 
 
 * **Email:** [lisanguyen.tech@yahoo.com](mailto:lisanguyen.tech@yahoo.com)
 * **LinkedIn:** [https://www.linkedin.com/in/lisa-vo-nguyen/](https://www.linkedin.com/in/lisa-vo-nguyen/)
+
 
