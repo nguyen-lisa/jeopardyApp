@@ -4,6 +4,10 @@ A Jeopardy-style quiz game built with a Java Swing GUI. Choose from four prize b
 
 Buttons are disabled after you click them so questions can’t be repeated.
 
+![](./jeopardyGif.gif)
+
+---
+
 ## Technologies Used
 - Java
 - Java Swing (GUI): `JFrame`, `JPanel`, `JButton`, `JLabel`, `JOptionPane`
@@ -46,10 +50,6 @@ Buttons are disabled after you click them so questions can’t be repeated.
    java Jeopardy
 ```
 
-## Demo
-
-![](./jeopardyGif.gif)
-
 ---
 ## Contributing
 
@@ -63,3 +63,4 @@ This was a culminating assignment. Suggestions and improvements are welcome via 
 
 * **Email:** [lisanguyen.tech@yahoo.com](mailto:lisanguyen.tech@yahoo.com)
 * **LinkedIn:** [https://www.linkedin.com/in/lisa-vo-nguyen/](https://www.linkedin.com/in/lisa-vo-nguyen/)
+
