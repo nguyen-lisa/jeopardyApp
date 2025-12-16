@@ -51,17 +51,11 @@ Buttons are disabled after you click them so questions can’t be repeated.
 
 This was a culminating assignment. Suggestions and improvements are welcome via issues or pull requests.
 
----
-
 ## License
 
 * **Code:** MIT License.
-
----
 
 ## Contact
 
 * **Email:** [lisanguyen.tech@yahoo.com](mailto:lisanguyen.tech@yahoo.com)
 * **LinkedIn:** [https://www.linkedin.com/in/lisa-nguyen-48825a160/](https://www.linkedin.com/in/lisa-nguyen-48825a160/)
-
-
